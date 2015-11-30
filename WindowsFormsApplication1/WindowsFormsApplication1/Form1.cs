@@ -28,8 +28,8 @@ namespace WindowsFormsApplication1
 
         private void btnIntro_Click(object sender, EventArgs e)
         {
-            frmIntroduction frm = new frmIntroduction();
-            frm.ShowDialog();
+            //frmIntroduction frm = new frmIntroduction();
+            //frm.ShowDialog();
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -58,12 +58,6 @@
     <Compile Include="frmBranch_1.Designer.cs">
       <DependentUpon>frmBranch_1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIntroduction.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmIntroduction.Designer.cs">
-      <DependentUpon>frmIntroduction.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -71,9 +65,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmBranch_1.resx">
       <DependentUpon>frmBranch_1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmIntroduction.resx">
-      <DependentUpon>frmIntroduction.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
