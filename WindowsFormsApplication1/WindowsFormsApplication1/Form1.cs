@@ -23,7 +23,7 @@ namespace WindowsFormsApplication1
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Enterd Name as it is:: " + txtName.Text + " : " );
+            MessageBox.Show("Enterd Name as it is:: : " + txtName.Text + " : " );
         }
 
         private void btnIntro_Click(object sender, EventArgs e)
