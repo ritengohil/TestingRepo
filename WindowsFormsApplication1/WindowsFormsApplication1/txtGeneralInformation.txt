@@ -1,1 +1,1 @@
-﻿--This is the general information file.
+﻿--This is the general information file. Information.
